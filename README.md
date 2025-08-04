@@ -52,8 +52,6 @@ Former ASE Master Automotive Technician turned self-taught programmer.  With nea
 
 Check out my [website](https://kevinhood.dev) for more details!
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Project+Demo) <!-- Replace with actual screenshot from your site or GitHub -->
-
 <!--## 📊 GitHub Stats
 
 ![Kevin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
@@ -65,7 +63,7 @@ Check out my [website](https://kevinhood.dev) for more details!
 
 Big nerd at heart.  When not working, I'm tending my bonsai trees or diving into board games.  Life motto: The best time to plant a tree was 10 years ago.  The second best time is right now. 🌿
 
-![Bonsai Tree](https://media.giphy.com/media/l0MYC0LajbaPoEADs/giphy.gif) <!-- Thematic GIF -->
+![Bonsai Tree](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnIwOTJjeHBmd2Z3NGg3NDltd2c2d3pxcm41cGo0bmFodWViaDR6cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lXiRqG32XfNJkcUO4/giphy.gif) <!-- Thematic GIF -->
 
 ## 📫 Get in Touch
 
